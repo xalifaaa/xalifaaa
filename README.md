@@ -1,18 +1,17 @@
-## Salam Alaikum 👋
+## ✨ A bit about me ✨
+I am a Senior Security Software Engineer @ Capgemini — Currently on the SIEM Team supporting the Emirates Global Aluminum client account.
 
-Senior Security Software Engineer at Capgemini — SIEM Team supporting the Emirates Global Aluminum client account.
+I design and operate detection and response capabilities, automate security operations, and perform deep technical analysis to find and remediate security vulnerabilities. I enjoy security engineering, incident detection, and hands-on reverse engineering to improve overall enterprise security.
 
-I design and operate detection and response capabilities, automate security operations, and perform deep technical analysis to find and remediate vulnerabilities. I enjoy security engineering, incident detection, and hands-on reverse engineering to improve overall enterprise security.
-
-- 🔎 Focus: SIEM · Threat Detection · SOC Automation · Incident Response · Reverse Engineering
-- 🛠️ SIEM & Security Tools: Microsoft Azure Entra ID · Azure Sentinel · Azure Defender · RSA NetWitness · SentinelOne · ServiceNow · Vectura
+- 🔎 My Current Focus: SIEM · Threat Detection · SOC Automation · Incident Response · Reverse Engineering
+- 🛠️ Security Tools: Microsoft Azure Entra ID · Azure Sentinel · Azure Defender · RSA NetWitness · SentinelOne · ServiceNow · Vectura
 - 🔧 Engineering & Reversing: Ghidra · C/C++ · Binary analysis · Malware/firmware reversing
-- 🌐 Web & Platforms: Next.js · MongoDB · Node.js · Cloud (Azure) · CI/CD
+- 🌐 Web & Platforms: Next.js · MongoDB · Node.js · Cloud (Azure) · CI/CD (Docker)
 - 📌 Currently: tuning detection rules, building automated playbooks, and enhancing telemetry collection for faster triage and response
 
-Open to: Senior/Security Engineer roles in Cloud Security, Security Automation, SIEM, and Threat Detection — full-time or contract.  
+📩 Open to: Senior/Security Engineer roles in Cloud Security, Security Automation, SIEM, and Threat Detection — full-time or contract.  
 
-Contact: GitHub: @xalifaaa · LinkedIn: linkedin.com/in/kzabi · Email: khalzaabi@pm.me
+📤 Contact: LinkedIn: linkedin.com/in/kzabi · Email: khalzaabi@pm.me
 
 <!--
 Recruiter tips / optional enhancements (hidden in README):
