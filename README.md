@@ -11,7 +11,7 @@ I design and operate detection and response capabilities, automate security oper
 
 📩 Open to: Senior/Security Engineer roles in Cloud Security, Security Automation, SIEM, and Threat Detection — full-time or contract.  
 
-📤 Contact: LinkedIn: linkedin.com/in/kzabi · Email: khalzaabi@pm.me
+📤 Contact: https://linkedin.com/in/kzabi · Email: khalzaabi@pm.me
 
 <!--
 Recruiter tips / optional enhancements (hidden in README):
